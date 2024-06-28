@@ -1,1 +1,1 @@
-mmdetection3.X PR曲线绘制
+ plot PR curve for mmdetection3.X
